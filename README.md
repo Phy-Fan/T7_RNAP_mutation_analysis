@@ -19,7 +19,7 @@ Once the virtual environment is active, install the necessary Python packages us
 ### Step 3: Clone the Repository
 Download this repository to your local system. To clone the repository, run:
 
-```git clone <repository_url>```
+```git clone https://github.com/Phy-Fan/T7_RNAP_mutation_analysis```
 
 ## Script Descriptions
 **Hydrogen Bond Analysis**
